@@ -1,0 +1,3 @@
+neste arquivo está escrito o malware que ira infectar a CLconsultoria
+
+</codigo>
